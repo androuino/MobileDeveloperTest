@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileDeveloperTest</string>
+    <!-- MENU ITEMS -->
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TEXTVIEWS -->
+    <string name="song_title">Title:</string>
+    <string name="song_artist">Artist:</string>
+    <!-- EXCEPTIONS -->
+    <string name="illegal_argument_exception">Illegal Argument Exception!</string>
+</resources>
